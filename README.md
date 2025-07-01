@@ -88,3 +88,4 @@ digital-store/
 ├── .env
 ├── package.json
 └── README.md
+.
